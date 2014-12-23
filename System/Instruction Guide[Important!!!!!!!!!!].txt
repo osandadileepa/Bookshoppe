@@ -1,0 +1,15 @@
+First of all you pc should have Netbeans 7.4 or higher version and Wamp server 2.4 or higher version installed.
+
+1. Step 01
+Then import the netbeans project (bookshoppe) from NetBeansProjects folder then you can see the whole project.
+
+2. Step 02
+After that you can open the Wamp server and go phpmyadmin page and then go inside wamp server and create a
+database that has exactly the same name as bookshoppe. The import the provided sql to thatdatabase then you wiil
+be able to see all the tables in the databse.
+
+3. Step 03
+To connect both database and netbeabs project we need Mq Sql connecter J you can simply add the .jar file by just
+getting the properties of the libraries.
+
+After all that you can run the web project by right clicking on the Bookshoppe project.!!!!!!
